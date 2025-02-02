@@ -36,5 +36,5 @@ pip install -r requirement.txt
 ```
 <br>
 
-Vous trouverez les résultats de nos expérimentations dans le rapport : Rapport_Augment_Forecast.docx
+Vous trouverez les résultats de nos expérimentations dans le rapport : **Rapport_AugmentForecast.pdf**
 
